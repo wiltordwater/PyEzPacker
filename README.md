@@ -95,7 +95,6 @@ Python项目打包工具是一个基于GUI的工具，旨在简化使用PyInstal
 - Python 3.6+
 - PyInstaller
 - Pillow (PIL)
-- tkinter (通常随Python一起安装)
 
 ### 安装步骤
 1. 克隆或下载此仓库
